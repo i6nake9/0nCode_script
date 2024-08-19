@@ -26,7 +26,7 @@ The **0nCode Script** is a Node.js automation tool designed to interact with a s
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/0ncode-script.git
+   https://github.com/i6nake9/0nCode_script
    cd 0ncode-script
    ```
 
